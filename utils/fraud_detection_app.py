@@ -6,7 +6,7 @@ import streamlit as st
 from sklearn.preprocessing import StandardScaler
 
 # Load trained model
-model = joblib.load('fraud_detection_model.pkl')
+model = joblib.load('model/fraud_detection_model.pkl')
 
 # Load scaler and fit on known data
 scaler = StandardScaler()
