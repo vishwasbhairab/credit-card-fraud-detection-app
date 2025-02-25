@@ -9,7 +9,7 @@ This project is a **credit card fraud detection system** that uses **machine lea
 ---
 
 ## **🖥️ Demo**  
-🔗 **Live App**: [Coming Soon]  
+🔗 **Live App**: [https://credit-card-fraud-detection-app-jpkpnyvalsob7fccwzdrlb.streamlit.app/]  
 
 ---
 
